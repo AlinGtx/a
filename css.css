@@ -366,7 +366,7 @@ span.language {
     justify-content: center;
     margin:0 auto;
     max-width: 480px;
-    min-width: auto;
+    min-width: 480px;
     -webkit-box-pack: center;
     -moz-box-pack: center;
   }
